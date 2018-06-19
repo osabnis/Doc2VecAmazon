@@ -12,10 +12,10 @@ Sklearn, Re and pickle modules <br>
 
 To execute the classifier: 
 Download the repository and run the Doc2Vec.py file. Change the path to the dataset as per your system! The dataset is too large to be uploaded so the links are given below. Download the files there. The files are: <br>
-Reviews.csv (286MB) - Required
-database.sqlite (132 MB) - Not Required
-hashes.txt (277B) - Not Required
+Reviews.csv (286MB) - Required <br>
+database.sqlite (132 MB) - Not Required <br>
+hashes.txt (277B) - Not Required <br>
 Link: https://www.kaggle.com/snap/amazon-fine-food-reviews/data
-
+<br>
 
 Dataset - Amazon Fine Food Reviews on Kaggle
