@@ -1,0 +1,87 @@
+                                           Text  Score
+0  I have bought several of the Vitality canned d...      5
+1  Product arrived labeled as Jumbo Salted Peanut...      1
+2  This is a confection that has been around a fe...      4
+3  If you are looking for the secret ingredient i...      2
+4  Great taffy at a great price.  There was a wid...      5
+
+   Score                                               Text
+0    5.0  ...at least I hope it remains available. It is...
+1    5.0  My grandson is a beef jerky addict. We don't h...
+2    5.0  This coffee has a really great taste asnd if v...
+3    5.0  Healthy edibles are a great treat for our 5 ye...
+4    5.0  I have never been one to buy chicken in a can ...
+(25000, 2)
+
+   Score                                               Text  \
+0    5.0  ...at least I hope it remains available. It is...   
+1    5.0  My grandson is a beef jerky addict. We don't h...   
+
+                                 vectorized_comments  
+0  [0.282367, -0.148792, -0.109559, 0.0582213, 0....  
+1  [-0.0359735, 0.00815809, -0.191605, -0.13812, ...  
+
+/opt/conda/lib/python3.5/site-packages/sklearn/cross_validation.py:44: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+/opt/conda/lib/python3.5/site-packages/sklearn/grid_search.py:43: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. This module will be removed in 0.20.
+  DeprecationWarning)
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    3.8s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   16.1s
+[Parallel(n_jobs=4)]: Done 200 out of 200 | elapsed:   16.8s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=4)]: Done 200 out of 200 | elapsed:    0.3s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    3.7s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   16.4s
+[Parallel(n_jobs=4)]: Done 200 out of 200 | elapsed:   17.0s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.0s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.2s
+[Parallel(n_jobs=4)]: Done 200 out of 200 | elapsed:    0.2s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    3.6s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   15.6s
+[Parallel(n_jobs=4)]: Done 200 out of 200 | elapsed:   16.2s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.2s
+[Parallel(n_jobs=4)]: Done 200 out of 200 | elapsed:    0.2s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    3.6s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   15.9s
+[Parallel(n_jobs=4)]: Done 200 out of 200 | elapsed:   16.5s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=4)]: Done 200 out of 200 | elapsed:    0.3s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    3.8s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   16.2s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:   33.4s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:    0.6s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    3.7s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   16.0s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:   33.8s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:    0.5s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    3.8s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   16.7s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:   34.8s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:    0.6s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    3.9s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   17.0s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:   35.0s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.3s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:    0.5s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    5.3s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:   23.4s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:   48.5s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.0s
+0.4524489795918367 ----------------Best Accuracy score on Cross Validation Sets
+0.512
+
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:    0.2s finished
+[Parallel(n_jobs=4)]: Done  42 tasks      | elapsed:    0.0s
+[Parallel(n_jobs=4)]: Done 192 tasks      | elapsed:    0.1s
+[Parallel(n_jobs=4)]: Done 400 out of 400 | elapsed:    0.2s finished
